@@ -5,8 +5,6 @@ from .sub_agents import bigquery, research
 from .prompt import shop_agent_instruction
 
 
-#########################
-
 root_agent = Agent(
     name="conversational_search_agent",
     model="gemini-2.5-flash",

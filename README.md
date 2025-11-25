@@ -1,6 +1,8 @@
 # Conversational Shopping Assistant
 
-This project implements a conversational shopping assistant using Google's Generative AI Development Kit (ADK) and Vertex AI Search. The assistant helps users find products, get recommendations, and summarize reviews in a conversational manner, leveraging data from the Amazon Reviews 2023 dataset.
+This project implements a conversational shopping assistant using Google's Generative AI Development Kit (ADK) and Vertex AI Search. The assistant helps users find products, get recommendations, and summarize reviews in a conversational manner, leveraging data from the Amazon Reviews 2023 dataset. 
+
+Read more about this project in our [blog post](https://medium.com/@suyash.pawar612/beyond-the-search-bar-building-a-conversational-shopping-assistant-with-google-adk-f91be1566e2c)
 
 ![alt text](assets/agent_diagram.png)
 
