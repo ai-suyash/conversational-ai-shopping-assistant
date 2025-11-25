@@ -54,7 +54,7 @@ To create a Vertex AI Search data store, you can follow these general steps in t
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/ai-suyash/conversational-ai-shopping-assistant.git
-    cd conversational-shopping-assistant
+    cd conversational-ai-shopping-assistant
     ```
 
 2.  **Create a virtual environment:**
