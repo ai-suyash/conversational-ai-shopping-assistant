@@ -113,7 +113,8 @@ The main application logic is in `conversational_shopping_assistant/agent.py`. T
 ├── assets
 ├── .env
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
 ```
 
 ## Agent Tools
