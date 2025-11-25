@@ -53,7 +53,7 @@ To create a Vertex AI Search data store, you can follow these general steps in t
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/conversational-shopping-assistant.git
+    git clone https://github.com/ai-suyash/conversational-ai-shopping-assistant.git
     cd conversational-shopping-assistant
     ```
 
@@ -74,8 +74,8 @@ To create a Vertex AI Search data store, you can follow these general steps in t
     GOOGLE_GENAI_USE_VERTEXAI=TRUE
     GOOGLE_CLOUD_PROJECT="your-gcp-project-id"
     GOOGLE_CLOUD_LOCATION="your-gcp-location" # e.g., global, us, eu
-    ITEM_DATA_STORE_ID="your-item-data-store-id" [2]
-    REVIEW_DATA_STORE_ID="your-review-data-store-id" [2]
+    ITEM_DATA_STORE_ID="your-item-data-store-id"
+    REVIEW_DATA_STORE_ID="your-review-data-store-id"
     BQ_DATA_PROJECT_ID="your-bigquery-data-project-id"
     BQ_DATASET_ID="your-bigquery-dataset-id"
     ```
